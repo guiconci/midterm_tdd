@@ -1,0 +1,16 @@
+{
+  "name": "mid",
+  "version": "1.0.0",
+  "description": "tests for midterms",
+  "license": "ISC",
+  "author": "Guilherme Conci",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^5.2.0",
+    "mocha": "^11.7.1"
+  }
+}
